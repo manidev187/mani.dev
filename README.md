@@ -14,4 +14,4 @@
 ---
 
 ### Connect with me:
-[![website](./img/discord-icon.svg)](https://google.com)
+[![website](./img/discord-icon1.svg)](https://google.com)
