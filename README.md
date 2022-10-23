@@ -14,6 +14,4 @@
 ---
 
 ### Connect with me:
-
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg)](https://codestackr.com#gh-dark-mode-only)
+[![website](./img/discord-icon.svg)](https://google.com)
