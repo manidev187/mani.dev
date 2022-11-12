@@ -1,5 +1,5 @@
 ### About Me :
-ManiAbi Ist Cooler Als du 😎
+[Discord Bots](https://dsc.gg/ln-services)
 
 
 ### Learning And Working With
