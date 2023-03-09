@@ -1,7 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=ManiAhari)
 
 ### About Me :
-[Discord Bots](https://dsc.gg/ln-services)
+[Web-Services](https://discord.gg/webservices)
+[Mein Portfolio](https://maniabi.dev)
+
 
 
 ### Learning And Working With
