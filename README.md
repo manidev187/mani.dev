@@ -1,10 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ManiAhari)
 
-<div align="center">
-About Me
-Hi, I'm Mani Ahari, a web developer and designer passionate about creating responsive and user-friendly websites. I'm also the owner of Web-Services, a community dedicated to web development.
-
-
 ### About Me:
 
 - Join me on [Web-Services Discord](https://discord.gg/webservices)
