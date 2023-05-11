@@ -5,7 +5,6 @@
 <br />
 <a href="#"><img src="https://discord.c99.nl/widget/theme-1/354316383787548673.png"></a>
 
-
 ### Learning and Working With:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -17,7 +16,6 @@
 <img align="left" alt="Lua" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="padding-right:10px;" />
 
-<br />
 <br />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ManiAhari)
