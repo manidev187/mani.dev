@@ -3,7 +3,6 @@
 - Join me on [Web-Services Discord](https://discord.gg/webservices)
 - Visit my [Portfolio](https://maniabi.dev)
 <br />
-<a href="#"><img src="https://discord.c99.nl/widget/theme-1/354316383787548673.png"></a>
 
 ### Learning and Working With:
 
