@@ -23,4 +23,4 @@
 <br />
 
 ### Best Music
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2E2jTs3ENDexgjADS0GNg6?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=manib4m&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
