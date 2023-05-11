@@ -1,3 +1,5 @@
+<a href="#"><img src="https://discord.c99.nl/widget/theme-1/354316383787548673.png"></a>
+
 ### About Me:
 - Hey, I am Mani a self-taught developer
 - Join me on [Web-Services Discord](https://discord.gg/webservices)
