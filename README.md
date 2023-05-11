@@ -4,7 +4,7 @@
 
 ### About Me:
 - Hey, I am Mani a self-taught developer
-- Join me on [Web-Services Discord](https://discord.gg/webservices)
+- Join me on [Web-Services.io](https://discord.gg/webservices)
 - Visit my [Portfolio](https://maniabi.dev)
 <br />
 
@@ -26,4 +26,4 @@
 <br />
 
 ### Best Music
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=manib4m&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=manib4m&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
