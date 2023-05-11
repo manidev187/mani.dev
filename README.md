@@ -11,6 +11,9 @@
 - Visit my [Portfolio](https://maniabi.dev)
 <br />
 
+![Profile Views](https://komarev.com/ghpvc/?username=ManiAhari)
+<br />
+
 ### Learning and Working With:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
