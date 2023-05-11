@@ -21,3 +21,5 @@
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="padding-right:10px;" />
 
 <br />
+
+![Profile Views](https://komarev.com/ghpvc/?username=ManiAhari)
