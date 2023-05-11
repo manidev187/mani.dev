@@ -4,6 +4,7 @@
 - Visit my [Portfolio](https://maniabi.dev)
 <br />
 <a href="#"><img src="https://discord.c99.nl/widget/theme-1/354316383787548673.png"></a>
+<br />
 ![Profile Views](https://komarev.com/ghpvc/?username=ManiAhari)
 
 ### Learning and Working With:
