@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=ManiAhari)
+
 ### About Me:
 - Hey, I am Mani a self-taught developer
 - Join me on [Web-Services Discord](https://discord.gg/webservices)
