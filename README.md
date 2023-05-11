@@ -17,5 +17,6 @@
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="padding-right:10px;" />
 
 <br />
+### My Discord Profile
 <a href="#"><img src="https://discord.c99.nl/widget/theme-1/354316383787548673.png"></a>
 <br />
