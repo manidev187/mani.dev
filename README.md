@@ -28,3 +28,6 @@
 
 ### Best Music
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=manib4m&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+### Best Bot :D
+<a href="#"><img src="https://discord.c99.nl/widget/theme-1/1117143893885071431.png"></a>
